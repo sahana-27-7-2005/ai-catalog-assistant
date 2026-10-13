@@ -1,0 +1,66 @@
+category,brand,name,price,description
+mobile,Apple,iPhone 14,70000,128GB storage excellent camera
+mobile,Apple,iPhone 13,65000,Great performance and battery
+mobile,Samsung,Galaxy S21,50000,AMOLED display smooth performance
+mobile,Samsung,Galaxy A54,35000,Midrange phone good camera
+mobile,OnePlus,OnePlus 11,55000,Fast charging flagship performance
+mobile,Realme,Realme Narzo 60,18000,Budget friendly good battery
+
+laptop,Dell,Inspiron 3520,65000,12th Gen i5 8GB RAM 512GB SSD
+laptop,HP,Pavilion 15,60000,Lightweight laptop good battery
+laptop,Lenovo,IdeaPad Slim 3,58000,Affordable laptop for students
+laptop,Asus,Vivobook 15,62000,Slim design powerful performance
+laptop,Acer,Aspire 7,70000,Gaming laptop GTX graphics
+
+clothing,Nike,T-shirt,1500,Cotton comfortable wear
+clothing,Adidas,Track Pant,2000,Sports wear flexible material
+clothing,Puma,Hoodie,2500,Warm stylish hoodie
+clothing,Zara,Jacket,4000,Winter fashion wear
+clothing,H&M,Shirt,1800,Casual slim fit shirt
+
+shoes,Nike,Running Shoes,4000,Lightweight running shoes
+shoes,Adidas,Sneakers,4500,Trendy casual sneakers
+shoes,Puma,Sports Shoes,3500,Comfortable sports wear
+
+electronics,Sony,Headphones,3000,Noise cancellation headphones
+electronics,Boat,Bluetooth Speaker,1500,Portable speaker with bass
+electronics,Apple,AirPods,12000,Wireless earbuds premium sound
+electronics,Samsung,Smart TV,40000,4K Ultra HD smart television
+
+furniture,Ikea,Office Chair,7000,Ergonomic comfortable chair
+furniture,Urban Ladder,Study Table,9000,Wooden study desk
+furniture,Nilkamal,Plastic Chair,1500,Durable plastic chair
+
+appliances,LG,Washing Machine,25000,Fully automatic washing machine
+appliances,Samsung,Refrigerator,30000,Double door fridge energy efficient
+appliances,IFB,Microwave Oven,12000,Quick cooking appliance
+
+books,Penguin,Atomic Habits,500,Self improvement bestseller
+books,HarperCollins,Alchemist,400,Inspirational novel
+books,McGraw Hill,Data Structures,800,Computer science textbook
+
+beauty,Lakme,Face Cream,300,Moisturizing skin cream
+beauty,Maybelline,Lipstick,500,Long lasting lipstick
+beauty,Nivea,Body Lotion,350,Skin care product
+
+sports,SG,Cricket Bat,2000,Professional cricket bat
+sports,Nivia,Football,800,Durable football
+sports,Decathlon,Yoga Mat,1000,Fitness exercise mat
+
+toys,Lego,Building Blocks,1500,Creative toy set
+toys,Funskool,Board Game,600,Family board game
+
+automobile,Tata,Nexon,900000,Compact SUV petrol
+automobile,Maruti,Swift,700000,Hatchback fuel efficient
+
+accessories,Fastrack,Watch,2500,Stylish wrist watch
+accessories,Wildcraft,Backpack,2000,Durable travel bag
+accessories,Rayban,Sunglasses,5000,Premium eyewear
+
+groceries,Aashirvaad,Wheat Flour,300,High quality atta
+groceries,Tata Salt,Table Salt,50,Refined iodized salt
+groceries,Amul,Butter,250,Fresh dairy product
+
+health,Himalaya,Protein Powder,1200,Health supplement
+health,Dabur,Chyawanprash,500,Immunity booster
+health,Horlicks,Health Drink,350,Nutrition drink

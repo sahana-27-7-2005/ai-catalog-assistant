@@ -1,0 +1,31 @@
+# Python environments, caches, and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Frontend dependencies and generated output
+frontend/node_modules/
+frontend/build/
+frontend/coverage/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Runtime-generated audio and uploaded catalog files
+audio_files/
+uploaded_catalogs/*
+!uploaded_catalogs/catalog.csv
+!uploaded_catalogs/category.csv
+!uploaded_catalogs/laptop.csv
+!uploaded_catalogs/laptops.csv
+
+# Training checkpoints and local editor/OS files
+trained_assistant/checkpoint-*/
+.DS_Store
+Thumbs.db
+desktop.ini

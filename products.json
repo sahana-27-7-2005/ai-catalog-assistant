@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Redmi Note 12",
+        "price": "18000",
+        "desc": "Budget Android phone",
+        "category": "mobile",
+        "amazon": " https://www.amazon.in/dp/B0BQ3PYMCV",
+        "flipkart": " https://www.flipkart.com/redmi-note-12/p/itm9e3a"
+    },
+    {
+        "name": "OnePlus Nord CE 3",
+        "price": "25000",
+        "desc": "Mid-range 5G smartphone",
+        "category": "mobile",
+        "amazon": " https://www.amazon.in/dp/B0C7V9K5S8",
+        "flipkart": " https://www.flipkart.com/oneplus-nord-ce-3/p/itm4a1d"
+    },
+    {
+        "name": "HP Pavilion 15",
+        "price": " 70000",
+        "desc": "16GB RAM i5 laptop",
+        "category": "laptop",
+        "amazon": " https://www.amazon.in/dp/B0B4N6Y3JX",
+        "flipkart": " https://www.flipkart.com/hp-pavilion-15/p/itm123"
+    },
+    {
+        "name": " Boat Rockerz 450",
+        "price": " 1500",
+        "desc": " Wireless Bluetooth headphones",
+        "category": " electronics",
+        "amazon": " https://www.amazon.in/dp/B07PR1CL3S",
+        "flipkart": " https://www.flipkart.com/boat-rockerz-450/p/itm333"
+    }
+]
